@@ -15,6 +15,16 @@ Analyzed 50,000 employee records across 6 departments using Excel, Power BI, Tab
 - Job satisfaction: 2.49/4
 - Overtime (49.7%) strongly linked to attrition
 
+## 📊 Dashboards
+### Power BI
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### Tableau
+![Tableau Dashboard](images/tableau_dashboard.png)
+
+### Excel
+![Excel Dashboard](images/excel_dashboard.png)
+
 ## 📂 Contents
 - HR_Analytics_Report.pptx
 - Dashboards (Excel, Tableau, Power BI)
