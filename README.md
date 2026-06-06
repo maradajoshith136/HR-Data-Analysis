@@ -81,7 +81,8 @@ An in-depth analysis of employee attrition patterns across 50,000+ workforce rec
 
 ### 📈 **EXCEL DASHBOARDS**
 
-![Excel Dashboard](https://via.placeholder.com/900x500?text=Excel+HR+Analytics+Dashboard)
+
+Screenshots of dashboard/excel.png
 *Complete Excel Dashboard - All metrics, charts, and KPI summaries in one view*
 
 ---
