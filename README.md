@@ -81,16 +81,13 @@ An in-depth analysis of employee attrition patterns across 50,000+ workforce rec
 
 ### 📈 **EXCEL DASHBOARDS**
 
-
-Screenshots of dashboard/excel.png
-*Complete Excel Dashboard - All metrics, charts, and KPI summaries in one view*
+<img width="878" height="574" alt="WhatsApp Image 2026-05-25 at 7 32 41 PM" src="https://github.com/user-attachments/assets/093d0bde-bd28-47d3-9bd6-87ad27b2336e" />
 
 ---
 
 ### 📊 **POWER BI DASHBOARDS**
 
-![Power BI Dashboard](https://via.placeholder.com/900x500?text=Power+BI+Interactive+Dashboard)
-*Interactive Power BI Dashboard - Real-time analytics, filters, and drill-down capabilities*
+<img width="1600" height="938" alt="WhatsApp Image 2026-05-19 at 11 54 10 AM" src="https://github.com/user-attachments/assets/dd5d9fc5-9909-4673-b4cc-13bf6268962d" />
 
 ---
 
